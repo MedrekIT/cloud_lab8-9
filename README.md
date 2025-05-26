@@ -2,7 +2,7 @@
 
 Application allows checking the weather in any of the three countries (Poland, Germany, France)
 
-> > [!WARNING]
+> [!WARNING]
 > Application has been built to provide information only in Polish language
 ---
 
@@ -39,7 +39,7 @@ git clone https://github.com/MedrekIT/cloud_lab8-9.git
 cd cloud_lab8-9
 ```
 
-> > [!WARNING]
+> [!IMPORTANT]
 > To make it work, you will need to install suitable image from [Alpine page](https://www.alpinelinux.org/downloads/) or change to desired image in your [Dockerfile](./Dockerfile)
 > Also, you will need to provide your own API key from [OpenWeather page](https://openweathermap.org/api) to your [".env" file](./.env)
 
